@@ -97,7 +97,5 @@ Regions with higher EV adoption were compared against PM2.5 concentrations to id
 - Spatial visualization highlights uneven distribution of EV infrastructure across regions.
 - GIS-based analysis provides insights into sustainability trends and transportation impacts.
 
----
 
-## Project Structure
 
